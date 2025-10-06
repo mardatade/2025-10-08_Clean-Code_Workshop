@@ -1,4 +1,4 @@
-# Refactoring
+# Example Research Project
 
 Here's a set of Jupyter notebook reflecting a short (made up) research project investigating relationships between biological, chemical, and physical properties in the Ocean.
 
