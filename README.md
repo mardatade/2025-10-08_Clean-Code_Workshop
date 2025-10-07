@@ -1,6 +1,14 @@
 # Clean Code Workshop
 
+Example research project: There's a small [example research project](example_project/README.md) which can serve as a playground for
+
+- refactoring
+- packaging
+- 
+
 ## Possible tasks
+
+### Refactoring
 
 ### Packaging
 
