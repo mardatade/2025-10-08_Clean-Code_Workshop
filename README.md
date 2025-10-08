@@ -6,6 +6,15 @@ Example research project: There's a small [example research project](example_pro
 
 During the workshop, we can use the example project to explore different aspects.
 
+### "Metrics" for scientific code
+
+Let's find and define metrics describing about which properties of scientific code or scientific software a user / developer may care.
+
+Suggestions:
+- readability
+- flexibility
+- ...
+
 ### Analysis
 
 Before even changing any code, we can take a look at the internal structure and identify potential problems (or strenths) of the existing implementation.
