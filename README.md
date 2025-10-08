@@ -53,6 +53,8 @@ Or we go for a few extreme (and maybe fun) approaches:
 
 - A prior [MarDATA course on Software Testing](https://github.com/mardatade/Course-Software-Testing) including a set of slides.
 
+- [The Turing Way](https://book.the-turing-way.org/) online book which, among other topics, covers code quality for reproducible research.
+
 -  Talk by David Beazley: [The problem with the problem](https://youtu.be/t-IUY6QrJyU)
 
 - Talk by Rich Hickey: [Simple made easy](https://youtu.be/SxdOUGdseq4) about (hidden) complexity
